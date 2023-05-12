@@ -43,8 +43,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flex-box
-- CSS Grid
+- Javascript
 - Mobile-first workflow
 
 
