@@ -52,16 +52,6 @@ Users should be able to:
 I learned how to personalize the slider and improve my responsiveness and JS skills.
 
 
-### Continued development
-
-JS
-
-### Useful resources
-
-- [https://nikitahl.com/style-range-input-css] - It helped me with the range slider.
-- [https://openjavascript.info/2022/03/14/random-password-generator-using-javascript/] - Found this useful method with crypto.getRandomValues() instead of Math.random().
-
-
 ## Author
 
 - GitHub - [@Daysired](https://github.com/Daysired)
